@@ -1,3 +1,9 @@
+"""
+Function to add all n previous numbers of some positive integer N
+so long as n is not divisible by 5
+"""
+
+
 
 def hasfive(number):
     while number > 0:
